@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "accounts"
+        }
+    ],
+    "settings": {
+        "java.compile.nullAnalysis.mode": "automatic"
+    }
+}
